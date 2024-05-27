@@ -1,6 +1,7 @@
-# Project Title
+# Loan Default Predictor
 
-Simple overview of use/purpose.
+https://www.kaggle.com/datasets/nikhil1e9/loan-default
+I took the above dataset from Kaggle about loan defaults, and I cleaned that data and did exploratory data analysis. I then created a machine learning model using the Random Forest algorithm to predict whether an individual would default on their loan or not. 
 
 ## Description
 
