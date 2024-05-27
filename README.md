@@ -9,7 +9,7 @@ https://www.loom.com/share/e0a1c938f768475296d28300cd9daa89?sid=952a9a19-8b03-4b
 
 ### Dependencies
 
-In order to run the Jupyter Notebook, one must install Pandas, NumPy, and Scikit-learn. 
+In order to run the Jupyter Notebook, one must install Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. 
 
 ### Executing program
 
